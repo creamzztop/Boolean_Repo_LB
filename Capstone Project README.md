@@ -6,7 +6,7 @@ Welcome to your final step! You are now tasked with completing a full data analy
 ## Project Structure
 
 The project submission should be comprised of the following:
-* A small deck (max 5 slides), showcasing the problem at hand, the process used to solve it and the tools/technologies used
+* A small deck (max 5 slides), showcasing the problem at hand, the process used to solve it and the tools/technologies used 
 * One (or more) **Python notebook**, that shows all the relevant analysis steps, including data fetching, cleaning and EDA; at a minimum, the project should also contain two of the following:
   * Charting
   * Hypothesis test
